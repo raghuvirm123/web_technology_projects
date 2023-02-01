@@ -1,0 +1,207 @@
+body{
+    background-image: url(./images/banner.jpg);
+    background-repeat: no-repeat;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-size: 100% 642px;
+    background-color:#f5f5f5;
+}
+
+#HeaderSection{
+    color: white;
+    width: 100%;
+
+}
+
+#Logo{
+    width: 30%;
+    display: inline-block;
+}
+
+#Logo h1{
+    
+    font-size: 14.66px;
+    margin: 15px 0px 0px 12px;
+    
+}
+
+#Logo h1 span{
+    font-weight: 100;
+
+}
+
+#Option{
+    width: 69%;
+    display: inline-block;
+}
+#Option ul{
+    display: inline-block;
+    position: relative;
+    left: 660px;
+}
+#Option ul li{
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 17px;
+
+}
+#SignUp{
+    border: 1px solid white;
+    padding: 5px ;
+
+
+}
+
+#SignUp{
+    border: 2px solid white;
+    padding: 5px 15px;
+    border-radius: 6px;
+}
+
+.fa.fa-angle-down{
+    font-weight: 900;
+    font-size: 18px;
+    margin-right: 5px;
+}
+
+/* body section starts from here*/
+/* body section starts here */
+
+#BodySection{
+    color: white;
+    text-align: center;
+}
+
+#BodySection h1{
+    font-size: 58px;
+    font-weight: 100;
+    padding-top: 47px;
+}
+#BodySection p{
+    font-size: 21px;
+    margin-top: -20px;
+}
+
+#BodySection ul{
+    display: inline-block;
+}
+
+#BodySection ul li{
+    display:inline-block ;
+    font-size: 20px;
+    border: 2px solid lightgrey;
+    padding: 10px 20px;
+    border-radius: 6px;
+    
+}
+
+#Sign{
+    color: gray;
+    background-color: white;
+    border: 2px solid white !important;
+    margin-right: 25px;
+
+}
+
+/* description sectionstart from here */
+
+#DescriptSeciion{
+    color: gray;
+    background-color: white;
+    text-align: center;
+    width: 70%;
+    margin:0 auto ;
+    border-radius: 5px;
+    margin-top: 100px;
+}
+
+#DescriptSeciion h1{
+    font-size: 34px;
+    font-weight: 900;
+    padding-top: 70px;
+}
+
+#DescriptSeciion p{
+    font-size: 23px;
+    border-top: 1px solid grey;
+    display: inline-block;
+    padding-top: 40px;
+}
+#DescriptSeciion img{
+    width: 100%;
+    margin-top: 45px;
+    border-radius: 5px;
+}
+
+/* description section done here */
+
+/* icon section starts here */
+
+#IconSection{
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 7px;
+    margin-top: 40px;
+    
+}
+#IconSection div{
+    /* margin-top: 41px; */
+    width: 49%;
+    display: inline-block;
+    text-align: center;
+    padding: 65px 4px;
+}
+
+#IconSection div h1{
+    font-size: 29px;
+    font-weight: 100;
+}
+.fa.fa-bolt{
+    color: white;
+    font-size: 48px;
+    background-color: #7fcdb8;
+    border-radius: 100%;
+    padding: 21px 35px;
+}
+
+.fa.fa-area-chart{
+    color: white;
+    font-size: 48px;
+    background-color: #7fcdb8;
+    border-radius: 100%;
+    padding: 21px 22px;
+}
+
+
+.fa.fa-cloud{
+    color: white;
+    font-size: 48px;
+    background-color: #90b0ba;
+    border-radius: 100%;
+    padding: 21px 19px;
+}
+
+
+
+.fa.fa-lock{
+    color: white;
+    font-size: 48px;
+    background-color: #e5cb95;
+    border-radius: 100px;
+    padding: 21px 35px;
+}
+
+#div1{
+    border-right: 1px solid black;
+}
+ #div2{
+    border-bottom: 1px solid black;
+} 
+#div3{
+    border-top: 1px solid black;
+}
+#div4{
+    border-left: 1px solid black;
+}
+
+
